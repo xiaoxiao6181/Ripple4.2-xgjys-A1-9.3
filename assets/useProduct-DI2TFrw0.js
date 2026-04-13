@@ -1,1 +1,0 @@
-import{W as a,r,X as s}from"./index-a8JG7o7V.js";const d=a("product",()=>{const t=r();return{data:s({get:()=>t.value,set:e=>{t.value=e}}),_data:t}},{persist:!0});export{d as u};
